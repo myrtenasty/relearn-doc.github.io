@@ -1,0 +1,65 @@
+.threeJS{
+    overflow: hidden;
+    margin: 500px 0 0 0;
+    padding: auto;
+    font-family: Poppins;
+}
+
+.body {
+    height: 1500px;
+    margin: 500px 0 0 0;
+    background-color: #171723;
+}
+
+.div{
+    display: block;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* flex-direction: column; */
+    text-align: center;
+}
+
+.h1{
+    color: black;
+    font-size: 50px;
+}
+
+.h2{
+    color: black;
+    font-size: 100px;
+}
+
+.h3{
+    color: black;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+button{
+    border: none;
+    background: #1B9CFC;
+    color: white;
+    border-radius: 10px;
+    width: 50%;
+    height: 64px;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    white-space: normal;
+    text-decoration: none;
+}
+
+.canvas{
+    margin: auto;
+    width: 1000px;
+    height: 1000px;
+    border: 10px double rgba(0, 0, 0, 0.75);
+}
+
+.webgl{
+    /* position: absolute; */
+    /* top: 1000px; */
+    width: 100%;
+    height: 100%;
+    border: 10px double rgba(0, 0, 0, 0.75);
+}

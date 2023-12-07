@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Relearn Doc Site</title>
+    <link>https://myrtenasty.github.io/index.html</link>
+    <description>Recent content on A Relearn Doc Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Dec 2023 15:53:59 +0800</lastBuildDate>
+    <atom:link href="https://myrtenasty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics</title>
+      <link>https://myrtenasty.github.io/basics/index.html</link>
+      <pubDate>Thu, 07 Dec 2023 15:53:59 +0800</pubDate>
+      <guid>https://myrtenasty.github.io/basics/index.html</guid>
+      <description>Chapter 1 Basics Discover what this Hugo theme is all about and the core concepts behind it.
+Lorem Ipsum.</description>
+    </item>
+  </channel>
+</rss>

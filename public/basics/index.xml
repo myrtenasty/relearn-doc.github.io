@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on A Relearn Doc Site</title>
+    <link>https://myrtenasty.github.io/basics/index.html</link>
+    <description>Recent content in Basics on A Relearn Doc Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Dec 2023 15:53:59 +0800</lastBuildDate>
+    <atom:link href="https://myrtenasty.github.io/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forth Content</title>
+      <link>https://myrtenasty.github.io/basics/forth-content/index.html</link>
+      <pubDate>Thu, 07 Dec 2023 15:53:59 +0800</pubDate>
+      <guid>https://myrtenasty.github.io/basics/forth-content/index.html</guid>
+      <description> &lt;!DOCTYPE html&gt; Three Hello! My name is Rajat. I love Three.JS. </description>
+    </item>
+    <item>
+      <title>Third Content</title>
+      <link>https://myrtenasty.github.io/basics/third-content/index.html</link>
+      <pubDate>Thu, 07 Dec 2023 15:24:01 +0800</pubDate>
+      <guid>https://myrtenasty.github.io/basics/third-content/index.html</guid>
+      <description>&lt;!DOCTYPE html&gt; First HTML Post CSS Color Markers </description>
+    </item>
+    <item>
+      <title>Second Content</title>
+      <link>https://myrtenasty.github.io/basics/second-content/index.html</link>
+      <pubDate>Thu, 07 Dec 2023 15:23:47 +0800</pubDate>
+      <guid>https://myrtenasty.github.io/basics/second-content/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Content</title>
+      <link>https://myrtenasty.github.io/basics/first-content/index.html</link>
+      <pubDate>Thu, 07 Dec 2023 15:23:35 +0800</pubDate>
+      <guid>https://myrtenasty.github.io/basics/first-content/index.html</guid>
+      <description>微积分的概念 函数与极限 无穷数列的极限（若有）: $$ \lim_{n \to \infty} a_n = A$$ 如果两个数列有极限，那么，这两个数列各对应项的和，差，积，商（除数不为0）也有极限，且极限等于对应项的和，差，积，商的极限。 函数是两个变量之间的一种对应关系，即，对于每一个自变量 $x$，函数 $y = f(x)$ 有唯一确定的值与之对应。 函数的极限 $$ \lim_{x \to a} f(x) = A$$ 函数在 $t_0$ 连续 $$ \lim_{t \to t_0} f(t) = f(t_0)$$ 设 $f(t)$ 是 $[a, b]$ 上的连续函数，又设 $f(a)$ 与 $f(b)$ 异号，则在 $f(a)$ 与 $f(b)$ 之间至少存在一点 $\xi$，使得 $f(\xi) = 0$。 设 $f(t)$ 是 $[a, b]$ 上的连续函数，且 $f(a) \neq f(b)$，则对于介于 $f(a)$ 与 $f(b)$ 之间的任何数 $y$，在 $[a, b]$ 上至少存在一点 $\xi$，使得 $f(\xi) = y$。 在闭区间上的连续函数一定能达到在这个闭区间上的最大值 $M$ 和最小值 $m$。 一切初等函数在其定义域内都是连续的。$testtest$ 定积分 hugo new site &amp;lt;new_project&amp;gt;public class Program { public static void Main(string[] args) { Console.</description>
+    </item>
+  </channel>
+</rss>
