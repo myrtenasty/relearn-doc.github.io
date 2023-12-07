@@ -1,4 +1,4 @@
-baseURL = 'https://myrtenasty.github.io'
+baseURL = 'https://myrtenasty.github.io/relearn-doc.github.io/'
 languageCode = 'en-us'
 title = 'A Relearn Doc Site'
 theme = "hugo-theme-relearn"
