@@ -1,7 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://myrtenasty.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-
-[module]
-[[module.imports]]
-    path = 'github.com/McShelby/hugo-theme-relearn'
+title = 'A Relearn Doc Site'
+theme = "hugo-theme-relearn"
