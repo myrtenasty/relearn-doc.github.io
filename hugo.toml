@@ -8,3 +8,4 @@ home = [ "HTML", "RSS", "SEARCH"]
 
 [params]
   mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
+  themeVariant = ["blue", "neon"]
