@@ -2,10 +2,14 @@ baseURL = 'https://myrtenasty.github.io/'
 languageCode = 'en-us'
 title = 'A Relearn Doc Site'
 theme = "hugo-theme-relearn"
+canonifyURLs = true
+relativeURLs = true
 
 [outputs]
-home = [ "HTML", "RSS", "SEARCH"]
+home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE"]
+section = ["HTML", "RSS", "PRINT"]
+page = ["HTML", "RSS", "PRINT"]
 
 [params]
   mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
-  themeVariant = ["blue", "neon"]
+  themeVariant = ["auto", "blue", "neon"]
